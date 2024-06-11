@@ -8,7 +8,7 @@ setup(
     version='0.1.0',
     packages=['nama', 'nama.models'],
     install_requires=requirements,
-    data_files=[('',['requirements.txt'])],
+    data_files=[('', ['requirements.txt'])],
     url='https://github.com/bradhackinen/nama',
-    description='A NAme MAtching tool' 
+    description='A NAme MAtching tool'
 )
